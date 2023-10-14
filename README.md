@@ -1,5 +1,6 @@
 # Real-time banknote recognition
 This project was created for training purposes to implement photo or video recognition of Ukrainian banknotes.
+
 ![example](https://s9.gifyu.com/images/ezgif-1-30f01ba8d5.gif)
 
 # Libraries/frameworks used
